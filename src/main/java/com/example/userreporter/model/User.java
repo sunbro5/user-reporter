@@ -1,4 +1,4 @@
-package com.example.airbankuser.model;
+package com.example.userreporter.model;
 
 import lombok.Data;
 

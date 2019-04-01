@@ -1,7 +1,7 @@
-package com.example.airbankuser.service;
+package com.example.userreporter.service;
 
-import com.example.airbankuser.model.Post;
-import com.example.airbankuser.model.User;
+import com.example.userreporter.model.Post;
+import com.example.userreporter.model.User;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.Test;

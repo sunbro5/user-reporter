@@ -1,7 +1,7 @@
-package com.example.airbankuser.controller;
+package com.example.userreporter.controller;
 
-import com.example.airbankuser.model.User;
-import com.example.airbankuser.service.UserService;
+import com.example.userreporter.model.User;
+import com.example.userreporter.service.UserService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

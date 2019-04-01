@@ -1,7 +1,7 @@
-package com.example.airbankuser.service;
+package com.example.userreporter.service;
 
-import com.example.airbankuser.model.Post;
-import com.example.airbankuser.model.User;
+import com.example.userreporter.model.Post;
+import com.example.userreporter.model.User;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.web.client.RestTemplateBuilder;

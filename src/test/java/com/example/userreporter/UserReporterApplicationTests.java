@@ -1,4 +1,4 @@
-package com.example.airbankuser;
+package com.example.userreporter;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
